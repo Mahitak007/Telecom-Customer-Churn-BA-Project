@@ -1,7 +1,7 @@
 # Telecom-Customer-Churn-BA-Project
 End-to-end Business Analysis project analyzing telecom customer churn using SQL and Tableau.
 
-# Telecom Customer Churn – Business Analysis Project
+
 ## Business Context
 [To be added]
 
