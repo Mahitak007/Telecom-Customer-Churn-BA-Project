@@ -1,28 +1,22 @@
-1. Service Gap Hypothesis
-Customers are leaving because the company is not delivering services as promised. Examples include slower internet speeds, missing features, or unfulfilled contract commitments.
+Churn Hypnothesis
 
-2. Competitive Pricing Hypothesis
-Customers are more likely to churn if competitors offer better pricing, plans, or additional facilities, particularly among price-sensitive segments.
+Contract Type Hypothesis
+Customers on month-to-month contracts are more likely to churn than those on one- or two-year contracts, as longer commitments increase stickiness.
 
-3. Customer Service Interaction Hypothesis
-Limited, delayed, or unsatisfactory customer support increases the likelihood of churn. Customers who feel unsupported may switch to competitors.
+Service Utilization Hypothesis
+Customers who do not subscribe to value-added services (OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport) are more likely to churn due to lower perceived product value.
 
-4. Contract and Tenure Hypothesis
-Customers on month-to-month contracts are more likely to churn than those on 1- or 2-year contracts.
-Newer customers (short tenure) are at higher risk of leaving due to low engagement or unmet expectations.
+Tenure Hypothesis
+Customers with shorter tenure are at higher risk of churn compared to long-term customers, as they haven’t yet developed loyalty.
 
-5. Product/Service Usage Hypothesis
-Customers subscribing to multiple services (internet, streaming, phone) are less likely to churn.
-Customers not using key add-on services (e.g., online security, tech support) may perceive lower value and churn faster.
+Billing Preference Hypothesis
+Customers who prefer paperless billing may be more engaged and less likely to churn compared to those using traditional billing methods.
 
-6. Pricing and Billing Hypothesis
-Customers with higher monthly charges, without perceived added value, are more likely to churn.
-Billing preferences (paperless vs. traditional) may influence satisfaction and retention.
+Monthly Charges Hypothesis
+High MonthlyCharges correlate with higher churn among low-tenure customers, indicating price sensitivity among newer customers.
 
-7. Demographics Hypothesis
-Senior citizens may have unique churn patterns, potentially influenced by tech adoption or service needs.
-Customers with partners or dependents (family plans) may show different retention behaviors due to multiple service lines.
+Streaming Services Hypothesis
+Customers not using StreamingTV or StreamingMovies are more likely to churn, as engagement with entertainment services increases retention.
 
-8. External Factors Hypothesis
-Promotions or better packages from competitors can cause spikes in churn.
-Regional infrastructure issues or connectivity problems may result in higher churn in specific locations.
+Demographics Hypothesis
+Senior citizens or customers without partners/dependents might have different churn behavior due to different service needs and engagement patterns.
