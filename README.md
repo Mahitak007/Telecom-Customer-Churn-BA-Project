@@ -17,9 +17,9 @@ Primary Stakeholder:
 - Director of Customer Retention, responsible for reducing churn and protecting recurring revenue.
 
 Secondary Stakeholders:
-– Marketing team, focused on retention campaigns and personalized offers
-– Product team, responsible for service bundles and customer experience
-– Finance team, monitoring revenue impact and customer lifetime value
+- Marketing team, focused on retention campaigns and personalized offers
+- Product team, responsible for service bundles and customer experience
+- Finance team, monitoring revenue impact and customer lifetime value
 
 ## Business Objectives
 - Reduce customer churn and mitigate revenue loss by identifying high-risk segments and churn drivers.
