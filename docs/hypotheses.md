@@ -1,9 +1,8 @@
 # Telecom Customer Churn Hypotheses
 
-Contract Type Hypothesis
 ## 1. What is the overall churn rate and how does it compare across customer segments? 
 
-## 2. Customers on month-to-month contracts are more likely to churn than those on one- or two-year contracts, as longer commitments increase stickiness.
+## 2. Contract Type Hypothesis
 Customers on month-to-month contracts are more likely to churn than those on one- or two-year contracts, as longer commitments increase stickiness.
 
 ## 3. Service Utilization Hypothesis
