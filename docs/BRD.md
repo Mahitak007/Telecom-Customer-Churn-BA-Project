@@ -46,10 +46,10 @@ The goal is to understand why customers leave, identify churn drivers, and imple
 ---
 
 ## 6. Stakeholders
-- Sales Manager
-- Retention Specialist
-- IT / Data Team
-- Executive Leadership
+- Director of Customer Retention:
+- Product Team
+- Marketing Team
+- Finance Team:
 
 ---
 
