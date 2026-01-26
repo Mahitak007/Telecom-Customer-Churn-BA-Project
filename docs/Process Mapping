@@ -1,1 +1,21 @@
+# Telecom Churn – Process Mapping
+
+This folder contains the process mapping for the Telecom Customer Churn project, showing both the **AS-IS** and **TO-BE** workflows.
+
+## AS-IS Process
+The AS-IS diagram illustrates the current workflow of customer churn management. Key issues include:
+- Reactive retention efforts after customers disengage
+- Lack of customer segmentation for targeted campaigns
+- Insights only available after revenue loss
+
+![AS-IS Telecom Churn](https://1drv.ms/i/c/0b3c740fb896ec2c/IQAOeAhqJNITTZ4sMb2VlJnuAY-AoQhQEe-0lWfzUllMv9U?e=59L5qh)
+
+## TO-BE Process
+The TO-BE diagram presents the optimized process addressing AS-IS pain points. Improvements include:
+- Proactive monitoring of customer engagement
+- Targeted retention campaigns with segmentation
+- Follow-up tracking to ensure long-term retention
+- Real-time revenue insights to anticipate losses
+
+![TO-BE Telecom Churn](https://1drv.ms/i/c/0b3c740fb896ec2c/IQA6wF5DWCfrT62SaOlCYPB5AWI1I4d2IAn8X7gcalhMmic?e=NRVdrw)
 
