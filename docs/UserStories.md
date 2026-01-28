@@ -12,10 +12,10 @@
 - **As a Product Team member**, I want churn trends by tenure and service features so that product strategies can be evaluated.
 
 ### Acceptance Criteria  
-The dashboard displays:
-   - Overall churn percentage.
-   - Churn by contract type, tenure, and monthly charges.
-   - Top churn drivers by customer segment.
+- The dashboard displays:
+   1 Overall churn percentage.
+   2 Churn by contract type, tenure, and monthly charges.
+   3 Top churn drivers by customer segment.
 - Customer segmentation identifies high-risk groups (High / Medium / Low) based on churn patterns.
 - TO-BE churn projections show expected improvement after proposed retention actions.
 - Dashboards are designed to support daily or periodic refresh for updated insights. 
