@@ -7,16 +7,16 @@
 - **As a Finance Team member**, I want to track revenue impact of churn so that I can assess financial risks.  
 
 **EPIC 2: Alerts & Monitoring**  
-- **As the Director of Customer Retention**, I want automated alerts for high-risk customers so that we can intervene proactively.  
-- **As a Marketing Team member**, I want actionable customer lists to launch personalized campaigns quickly.  
-- **As a Product Team member**, I want insights into churn trends by service features so I can adjust product strategies.  
+- **As the Director of Customer Retention**, I want customers to be segmented by churn risk level so that proactive retention planning can be performed.
+- **As a Marketing Team member**, I want segmented customer insights so that retention campaigns can be planned for high-risk groups.
+- **As a Product Team member**, I want churn trends by tenure and service features so that product strategies can be evaluated.
 
 ### Acceptance Criteria  
-- The dashboard displays:  
-  - Total churn %  
-  - Churn by contract type, tenure, and monthly charges  
-  - Top 5 churn drivers  
-- Alerts automatically flag high-risk customers based on churn probability and tenure.  
-- Insights are updated daily or in near real-time.  
-- Segmentation tables allow Marketing and Product teams to filter customers for targeted campaigns.  
+The dashboard displays:
+   - Overall churn percentage.
+   - Churn by contract type, tenure, and monthly charges.
+   - Top churn drivers by customer segment.
+- Customer segmentation identifies high-risk groups (High / Medium / Low) based on churn patterns.
+- TO-BE churn projections show expected improvement after proposed retention actions.
+- Dashboards are designed to support daily or periodic refresh for updated insights. 
 
