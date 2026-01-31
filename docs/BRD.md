@@ -79,7 +79,7 @@ The goal is to understand why customers leave, identify churn drivers, and imple
 - Director of Customer Retention:
 - Product Team
 - Marketing Team
-- Finance Team:
+- Finance Team
 
 ---
 
