@@ -83,13 +83,7 @@ The goal is to understand why customers leave, identify churn drivers, and imple
 
 ---
 
-## 11. Constraints & Risks
-- Limited data availability for certain segments.
-- Dependence on call center adoption of new workflow.
-- Accuracy of customer engagement data.
-- Resource limitations for implementing retention campaigns.
 
----
 
 
 
